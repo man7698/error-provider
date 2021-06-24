@@ -1,0 +1,10 @@
+F:\T.I\L.P\2ºBimestre\errorprovider\errorprovider\bin\Debug\errorprovider.exe
+F:\T.I\L.P\2ºBimestre\errorprovider\errorprovider\bin\Debug\errorprovider.pdb
+F:\T.I\L.P\2ºBimestre\errorprovider\errorprovider\obj\x86\Debug\errorprovider.Form1.resources
+F:\T.I\L.P\2ºBimestre\errorprovider\errorprovider\obj\x86\Debug\errorprovider.frmhabilitar.resources
+F:\T.I\L.P\2ºBimestre\errorprovider\errorprovider\obj\x86\Debug\errorprovider.Properties.Resources.resources
+F:\T.I\L.P\2ºBimestre\errorprovider\errorprovider\obj\x86\Debug\errorprovider.csproj.GenerateResource.Cache
+F:\T.I\L.P\2ºBimestre\errorprovider\errorprovider\obj\x86\Debug\errorprovider.exe
+F:\T.I\L.P\2ºBimestre\errorprovider\errorprovider\obj\x86\Debug\errorprovider.pdb
+C:\Users\Matheus\Desktop\pendrive 3º ano\T.I\L.P\2ºBimestre\errorprovider\errorprovider\obj\x86\Debug\errorprovider.exe
+C:\Users\Matheus\Desktop\pendrive 3º ano\T.I\L.P\2ºBimestre\errorprovider\errorprovider\obj\x86\Debug\errorprovider.pdb
